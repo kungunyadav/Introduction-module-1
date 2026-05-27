@@ -7,10 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1O1Ew3gEkduUYWplfQ40eBLjGprN-r_l1
 """
 
-!pip install kagglehub -q
 import kagglehub
 
-# STEP 2: DOWNLOAD DATASET
 path = kagglehub.dataset_download(
     "vivek468/superstore-dataset-final"
 )
