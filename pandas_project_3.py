@@ -9,7 +9,6 @@ Original file is located at
 
 import kagglehub
 
-# STEP 2: DOWNLOAD IPL DATASET
 path = kagglehub.dataset_download("manasgarg/ipl")
 
 print("===================================")
