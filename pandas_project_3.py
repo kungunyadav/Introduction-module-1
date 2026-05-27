@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/16V6ng9tHEMQkSx9yDZUJGd2eZgC3YE3c
 """
 
-!pip install kagglehub -q
-
-# Import library
 import kagglehub
 
 # STEP 2: DOWNLOAD IPL DATASET
